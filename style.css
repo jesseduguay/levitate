@@ -1,0 +1,94 @@
+
+/*Font & Color */
+body{
+	background: #FAFAFA;
+	color: rgb(20,20,20);
+	font-size: 18px;
+	font-family: Arial;
+}
+
+h1{
+	font-family: 'Lato', sans-serif;
+	color: #07689F;
+	font-size: 50px;
+	font-weight: bolder;
+}
+
+h2{
+	font-family: 'Lato', sans-serif;
+	color: #00289e;
+	font-size: 30px;
+	font-weight: lighter;
+}
+
+
+/* Specific design */
+
+#header{
+  text-align: center;
+  background-image: url("images/montreal3.jpg");
+  background-size: cover;
+  color: white;
+  text-shadow: 1px 1px 5px black;
+  height: 520px;
+  padding-right: 80px;
+  padding-left: 80px;
+  padding-bottom: 130px;
+  padding-top: 40px;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+}
+
+#logo{
+	width: 500px;
+}
+#header h1 {
+  color: white;
+  font-size: 50px;
+}
+#header p {
+  color: white;
+  opacity: 0.9;
+  font-size: 30px;
+  font-weight: lighter;
+}
+
+.feature{
+	text-align: center;
+	vertical-align: middle;
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.container{
+	padding-top: 20px;
+    padding-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#center{
+	background-image: url("https://static.pexels.com/photos/27476/pexels-photo-27476.jpg");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+	background-size: cover;
+
+}
+
+#bottom{
+	background-image: url("https://static.pexels.com/photos/119631/pexels-photo-119631.jpeg");
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+	background-size: cover;
+
+}
+
+#footer{
+  padding: 30px;
+  background: rgb(30, 30, 30);
+  color: lightgrey;
+  text-align: center;
+}
