@@ -30,14 +30,14 @@ h2{
   background-size: cover;
   color: white;
   text-shadow: 1px 1px 5px black;
-  height: 520px;
+  height: 530px;
   padding-right: 80px;
   padding-left: 80px;
-  padding-bottom: 130px;
-  padding-top: 40px;
+  padding-bottom: 140px;
+  padding-top: 10px;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  background-position: center;
+  background-position: top;
 }
 
 #logo{
@@ -69,7 +69,7 @@ h2{
 }
 
 #center{
-	background-image: url("https://static.pexels.com/photos/27476/pexels-photo-27476.jpg");
+	background-image: url("images/study.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 300px;
@@ -78,7 +78,7 @@ h2{
 }
 
 #bottom{
-	background-image: url("https://static.pexels.com/photos/119631/pexels-photo-119631.jpeg");
+	background-image: url("images/snow.jpg");
 	background-repeat: no-repeat;
 	background-position: center;
 	height: 300px;
@@ -92,3 +92,5 @@ h2{
   color: lightgrey;
   text-align: center;
 }
+/* "https://static.pexels.com/photos/119631/pexels-photo-119631.jpeg"
+"https://static.pexels.com/photos/27476/pexels-photo-27476.jpg" */
