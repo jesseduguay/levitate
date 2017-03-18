@@ -1,5 +1,3 @@
-
-/*Font & Color */
 body{
 	background: #FAFAFA;
 	color: rgb(20,20,20);
@@ -21,12 +19,8 @@ h2{
 	font-weight: lighter;
 }
 
-
-/* Specific design */
-
 #header{
   text-align: center;
-  background-image: url("images/orange.jpg");
   background-size: cover;
   color: white;
   text-shadow: 1px 1px 5px black;
@@ -36,7 +30,6 @@ h2{
   padding-bottom: 40px;
   padding-top: 20px;
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-position: bottom;
 }
 
@@ -68,36 +61,7 @@ h2{
     margin-right: auto;
 }
 
-#center{
-	background-image: url("images/study.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	height: 300px;
-	background-size: cover;
-}
-
-#bottom{
-	background-image: url("images/montreal3.jpg");
-	background-repeat: no-repeat;
-	background-position: center;
-	height: 300px;
-	background-size: cover;
-}
-
-#team{
-	background-image: url("images/equipe.jpeg");
-	background-repeat: no-repeat;
-	background-position: center;
-	height: 300px;
-	background-size: cover;
-}
-
-#footer{
-  padding: 10px;
-  background: rgb(30, 30, 30);
-  text-align: left;
-}
-
+/*MENU-BAR*/
 .menu-bar-box{
 	position: fixed;
 	top: 0;
@@ -258,5 +222,15 @@ h2{
     margin-right: auto;
 }
 
-/* "https://static.pexels.com/photos/119631/pexels-photo-119631.jpeg"
-"https://static.pexels.com/photos/27476/pexels-photo-27476.jpg" */
+#footer{
+  padding: 10px;
+  background: rgb(30, 30, 30);
+  text-align: left;
+}
+
+#plan {
+	margin: auto;
+	width: 85%;
+	height: 80%;
+	padding-top: 30px;
+}
