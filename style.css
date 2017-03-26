@@ -85,10 +85,10 @@ h2{
 }
 
 #team{
-	background-image: url("images/equipe.jpeg");
+	background-image: url("images/ora01.png");
 	background-repeat: no-repeat;
 	background-position: center;
-	height: 300px;
+	height: 450px;
 	background-size: cover;
 }
 
